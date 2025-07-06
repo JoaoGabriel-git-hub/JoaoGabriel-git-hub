@@ -14,29 +14,7 @@ Este espaço tem três propósitos principais:
 
 ## 🔐 Área de Foco
 
-Atualmente estou focado em **Segurança da Informação**, com interesse em:
-
-- Pentest e testes de vulnerabilidade
-- Engenharia Social
-- Ferramentas de análise de rede e forense
-- Criptografia aplicada
-- Conformidade com a LGPD
-
-
-## 🛠️ Tecnologias e Ferramentas
-
-Estou aprendendo e utilizando:
-
-- Python (automatização e scripts)
-- Gophish (simulações de phishing)
-- Kali Linux
-- Wireshark
-- Nmap
-- Metasploit
-- VirtualBox e VMs para laboratório
-- Git & GitHub
-
----
+Atualmente estou focado em **Segurança da Informação**.
 
 ## 📫 Contato
 
