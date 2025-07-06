@@ -5,7 +5,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-de-sousa-6246a8288?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp6jfwr66r%2boiyhtgvfesga%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-de-sousa-6246a8288?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp6jfwr66r%2boiyhtgvfesga%3d%3d" altura="30" largura="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-de-sousa-6246a8288?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp6jfwr66r%2boiyhtgvfesga%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-de-sousa-6246a8288?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp6jfwr66r%2boiyhtgvfesga%3d%3d" altura="10" largura="10" /></a>
 </p>
 
 
