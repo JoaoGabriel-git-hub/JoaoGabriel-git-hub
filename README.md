@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Gabriel
+# 👋 Olá! Eu sou Gabriel
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e segurança da informação.
 
