@@ -1,12 +1,52 @@
-<h1 align="center">Oi 👋, eu sou o Gabriel</h1>
-<h3 align="center">Sou um Entusiasta em cibersegurança, Registrando a Minha trajetória.</h3>
+# 👋 Olá! Eu sou João Gabriel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabriel-git-hub" /> </p>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e segurança da informação.
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-de-sousa-6246a8288?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp6jfwr66r%2boiyhtgvfesga%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-de-sousa-6246a8288?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp6jfwr66r%2boiyhtgvfesga%3d%3d" altura="10" largura="10" /></a>
-</p>
+## 🎯 Objetivo deste GitHub
+
+Este espaço tem três propósitos principais:
+
+- 📚 Compartilhar projetos e atividades acadêmicas;
+- 💼 Construir um portfólio sólido na área de tecnologia;
+- 🚀 Buscar oportunidades profissionais, especialmente na área de cibersegurança.
+
+---
+
+## 🔐 Área de Foco
+
+Atualmente estou focado em **Segurança da Informação**, com interesse em:
+
+- Pentest e testes de vulnerabilidade
+- Engenharia Social
+- Ferramentas de análise de rede e forense
+- Criptografia aplicada
+- Conformidade com a LGPD
+
+
+## 🛠️ Tecnologias e Ferramentas
+
+Estou aprendendo e utilizando:
+
+- Python (automatização e scripts)
+- Gophish (simulações de phishing)
+- Kali Linux
+- Wireshark
+- Nmap
+- Metasploit
+- VirtualBox e VMs para laboratório
+- Git & GitHub
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-de-sousa-6246a8288)
+
+Vamos conectar e compartilhar conhecimento!
+
+---
+
+> *"A segurança perfeita não existe, mas o conhecimento é a melhor defesa."*
 
 
 <!--
